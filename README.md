@@ -1,5 +1,5 @@
 # Top-Down Survival Shooter
-A currently unnamed top-down survival shooter created in Unity that is a heavy WIP.
+A currently unnamed top-down survival shooter created in Unity that is a heavy WIP. We will be actively working on this in the future.
 
 - Parker Sprouse - Programming / Design
 - Berkley Bristow - Artist / Design
