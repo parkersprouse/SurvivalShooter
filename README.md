@@ -4,4 +4,4 @@ A currently unnamed top-down survival shooter created in Unity that is a heavy W
 - Parker Sprouse - Programming / Design
 - Berkley Bristow - Artist / Design
 
-Most recent build: [Download](http://parkersprouse.me/games/tdss/build/TDSurvivalShooter.zip)
+Most recent build: [Download](https://github.com/parkersprouse/SurvivalShooter/releases/tag/v0.1.0-prototype)
